@@ -1,0 +1,5 @@
+{
+  "name": "The Furniture Town",
+  "description": "Premium furniture wholesaler and interior store in Vasai West, offering modern and traditional designs for home and office.",
+  "requestFramePermissions": ["geolocation"]
+}
